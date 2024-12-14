@@ -8,11 +8,11 @@ import java.util.function.Predicate;
 public class ItensFilter {
 	public static void main(String[] args) {
 		
-		Itens i1 = new Itens("Arroz", 1.000, 2025);
-		Itens i2 = new Itens("Feijão", 2.000, 2026);
-		Itens i3 = new Itens("Soja", 0.850, 2026);
-		Itens i4 = new Itens("Macarão", 1.900, 2028);
-		Itens i5 = new Itens("Aveia", 1.500, 2027);
+		Itens i1 = new Itens("Arroz", 1.000, 2025, 9.50);
+		Itens i2 = new Itens("Feijão", 2.000, 2026, 15.00);
+		Itens i3 = new Itens("Soja", 0.850, 2026, 6.50);
+		Itens i4 = new Itens("Macarão", 1.900, 2028, 3.00);
+		Itens i5 = new Itens("Aveia", 1.500, 2027, 8.00);
 		
 		List<Itens> itens = Arrays.asList(i1, i2, i3, i4, i5);
 		
