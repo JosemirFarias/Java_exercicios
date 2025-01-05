@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/libs"/>
+	</contentEntry>
+	<levels>
+		<level name="mysql-connector-j-9.1.0" value="project"/>
+	</levels>
+</component>
